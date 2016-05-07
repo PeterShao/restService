@@ -26,7 +26,7 @@ JSON Structure:
 
 REST calls:
 - GET: /v1/products?id=
-- POST: /v1/products with JSON (id will be automaticall generated)
+- POST: /v1/products with JSON (id will be automatically generated)
 - PUT: /v1/products with JSON
 - Delete: /v1/products?id=
 
